@@ -1,0 +1,11 @@
+data/credits.csv
+data/df_intermediate_features.pkl
+data/keywords.csv
+data/links.csv
+data/links_small.csv
+data/movies_metadata.csv
+data/ratings.csv
+data/ratings_small.csv
+hugging_face_models/
+notebooks/.ipynb_checkpoints
+notebooks/hugging_face_models/
